@@ -1,0 +1,470 @@
+[
+    {
+    "id": 1,
+    "location": "French Polynesia",
+    "placeName": "Bora Bora, Island",
+    "category": [
+    "Island",
+    "seabeach",
+    "france"
+    ],
+    "title": "A colossal cosmos encircled by a mystique lagoon",
+    "pricePerPerson": 150,
+    "packages": {
+    "single": {
+    "price": 150
+    },
+    "couple": {
+    "price": 280
+    },
+    "family": {
+    "price": 500
+    }
+    },
+    "packageDetails": "4 Nights Dinner & 1 night Berbique, 4 days Lunch & breakfast with tredational & popular french dishes. And some complementary surprise from us.",
+    "lastJoiningDate": "26-04-2023",
+    "rating": 4.5,
+    "interestedPeople": 0,
+    "joinedMembers": 0,
+    "EventDuration": "4 Days & 5 Nights",
+    "StartDate": "02-05-2023",
+    "EndDate": "06-05-2023",
+    "CoverImage": "https://www.holidify.com/images/compressed/dest_pixa_3550.jpg",
+    "images": [
+    "https://www.holidify.com/images/bgImages/BORA-BORA.jpg",
+    "https://www.holidify.com/images/compressed/dest_pixa_3549.jpg",
+    "https://www.holidify.com/images/compressed/dest_pixa_3550.jpg",
+    "https://www.holidify.com/images/compressed/dest_pixa_3555.jpg",
+    "https://www.holidify.com/images/compressed/dest_pixa_3553.jpg",
+    "https://www.holidify.com/images/compressed/dest_pixa_3552.jpg"
+    ],
+    "description": "Welcome to the fantasy of a dreamy island with utmost perfectional beauty- This is how the pictures of Bora Bora entice you for a vacation. A part of French Polynesia, this magical island has some of the most beautiful sights to behold- a tropical island sorrounded by the amazing blue lagoon and coral reefs, accompanied by small islets (Motus) scattered around Bora Bora.Crowned by the blue lagoon,Bora Bora is a heavenly paradise for people longing for a relaxing vacation amidst natural beauty, and not to forget newly-weds who're looking for a private romantic setting for honeymooning. If you're thinking Bora Bora is just for some sun-soaking and a luxurious getaway, you are absolutely right, NOT. Bora Bora has a lot more to offer apart from its indulging over-water and beach-side resorts. When you get slightly bored of sunbathing and your supercool tan starts looking like burnt skins, you can always turn to some great adventures for an extraordinary experience. There are a couple of underwater activities that also allow you to interact with the enigmatic marine life."
+    },
+    {
+    "id": 2,
+    "location": "Maldives",
+    "placeName": "Maldives",
+    "category": [
+    "beach",
+    "maldives",
+    "island"
+    ],
+    "title": "A Tropical Haven For Honeymooners",
+    "pricePerPerson": 200,
+    "packages": {
+    "single": {
+    "price": 200
+    },
+    "couple": {
+    "price": 480
+    },
+    "family": {
+    "price": 800
+    }
+    },
+    "packageDetails": "3 Nights Dinner & 1 night Berbique, 5 days Lunch & breakfast with tredational dishes. And some complementary surprise from us.",
+    "lastJoiningDate": "02-05-2023",
+    "rating": 4.5,
+    "interestedPeople": 0,
+    "joinedMembers": 0,
+    "EventDuration": "5 Days & 4 Nights",
+    "StartDate": "08-05-2023",
+    "EndDate": "13-05-2023",
+    "CoverImage": "https://www.holidify.com/images/bgImages/MALDIVES.jpg",
+    "images": [
+    "https://www.holidify.com/images/bgImages/MALDIVES.jpg",
+    "https://www.holidify.com/images/foreign/compressed/overview_1504.jpg",
+    "https://www.holidify.com/images/foreign/compressed/overview_1515.jpg",
+    "https://www.holidify.com/images/cmsuploads/compressed/water-sport-1125328_960_720_20180813190456_20190709171522.jpg",
+    "https://www.holidify.com/images/cmsuploads/compressed/canoe-kayak-2385207_960_720_20180813190713_20190709171624.jpg",
+    "https://www.holidify.com/images/cmsuploads/compressed/6980738549_e2a8c4fee6_b_20190709171103.jpg",
+    "https://www.holidify.com/images/cmsuploads/compressed/sea-2500739_960_720_20180813190358_20190709171405.jpg"
+    ],
+    "description": "The Maldives is an archipelagic state situated in the Indian Ocean known for its luxurious water villas. A tropical haven of white sand beaches, the Maldives is located in the south of Sri Lanka and is ideal for an adventure, honeymoon, or leisure holiday.The Maldives is an archipelago of 1,192 coral islands grouped into natural atolls. However, only 200 islands are inhabited. Each resort generally occupies an entire atoll.Imagine having a room on a pier jutting out from the shore with a glass floor under which manta rays and reef sharks can be seen swimming, and step out from your overwater bungalow to the view of turquoise water.Comprising of 26 atolls (ring-shaped coral reef that encircles a lagoon), the Maldives is renowned for its incredible diving opportunities, Maldives' azure waters are home to diverse marine life and corals of distinct hues.The capital city of Male is both commercial and financial capital. Seat to the executive, legislature, and judiciary, this city has the most well-connected international airport. The history lovers will be satiated here, given Male houses several buildings and monuments of historical importance. Male is accessible by ferry boats from the international airport. Travel to other islands in the Maldives is also quite feasible from Male due to the excellent ferry and seaplanes connectivity, though it is quite expensive."
+    },
+    {
+    "id": 3,
+    "location": "Thailand",
+    "placeName": "Phi Phi Islands, Thailand",
+    "category": [
+    "thailand",
+    "phiphi",
+    "island"
+    ],
+    "title": "Island Paradise for the Beach Lover",
+    "pricePerPerson": 170,
+    "packages": {
+    "single": {
+    "price": 170
+    },
+    "couple": {
+    "price": 350
+    },
+    "family": {
+    "price": 800
+    }
+    },
+    "packageDetails": "1 Nights Dinner I night Berbique, 3 days Lunch & breakfast with tredational & popular thai dishes. And some complementary surprise from us.",
+    "lastJoiningDate": "04-05-2023",
+    "rating": 4.5,
+    "interestedPeople": 0,
+    "joinedMembers": 0,
+    "EventDuration": "3 Days & 2 Nights",
+    "StartDate": "12-05-2023",
+    "EndDate": "15-05-2023",
+    "CoverImage": "https://www.holidify.com/images/bgImages/PHI-PHI-ISLANDS.jpg",
+    "images": [
+    "https://www.holidify.com/images/bgImages/PHI-PHI-ISLANDS.jpg",
+    "https://www.holidify.com/images/foreign/compressed/overview_1651.jpg",
+    "https://www.holidify.com/images/foreign/compressed/overview_1650.jpg",
+    "https://www.holidify.com/images/compressed/dest_wiki_12823.jpg",
+    "https://www.elitehavens.com/magazine/wp-content/uploads/2020/07/phiphi-island-edit.jpg",
+    "https://www.holidify.com/images/compressed/dest_wiki_12831.jpg"
+    ],
+    "description": "Phi Phi consists of a group of six islands. Only 40 km away from Phuket, Phi Phi Don and Phi Phi Leh are the two most famous islands of the six. With their pristine waters and vibrant parties, these islands are a wonderful way to spend a few days in Thailand. With four other islands besides the large ones, Phi Phi houses Bida Nok, Bida Nai, Ko Mai Phai, is also known as Bamboo Island. Phi Phi Islands became famous after the 2000 Hollywood flick 'The Beach' that was shot in Ko Phi Phi Le. Ko Phi Phi Leh houses The Viking Cave which is a thriving industry that sells edible birds nests.It's striking cliffs, white sand beaches with jungles all around and clear blue waters make it look nothing short of paradise. None of the islands has roads, and most of the islands are humanly inhabited, making Phi Phi Islands one of the few untainted beautiful landscapes left in the world. These easily accessible islands can be reached from both Phuket and Krabi, by a speedboat in just 45 minutes or by a ferry in 90 minutes."
+    },
+    {
+    "id": 4,
+    "location": "Thailand",
+    "placeName": "Koh Yao Nai, Thailand",
+    "category": [
+    "thailand",
+    "kohyaonai",
+    "island"
+    ],
+    "title": "A Sight Off the Beaten Track",
+    "pricePerPerson": 190,
+    "packages": {
+    "single": {
+    "price": 190
+    },
+    "couple": {
+    "price": 360
+    },
+    "family": {
+    "price": 700
+    }
+    },
+    "packageDetails": "1 Nights Dinner & 1 night Berbique, 3 days Lunch & breakfast with tredational & popular thai dishes. And some complementary surprise from us.",
+    "lastJoiningDate": "08-05-2023",
+    "rating": 4.5,
+    "interestedPeople": 0,
+    "joinedMembers": 0,
+    "EventDuration": "3 Days & 2 Nights",
+    "StartDate": "14-05-2023",
+    "EndDate": "17-05-2023",
+    "CoverImage": "https://www.holidify.com/images/bgImages/KOH-YAO-NOI.jpg",
+    "images": [
+    "https://www.holidify.com/images/bgImages/KOH-YAO-NOI.jpg",
+    "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_497247046_20190923152543.png",
+    "https://www.holidify.com/images/cmsuploads/compressed/KoYaoYai_20190920163213.jpg",
+    "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_592859528_20190923155505.jpg",
+    "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_464316578_20190923161255.jpg",
+    "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_512929531_20190923152913.jpg"
+    ],
+    "description": "The tranquil island of Koh Yao Noi is the sister island of Koh Yao Yai located in the middle of Phang Nga Bay, west of Phuket. It is an ideal getaway for the traveller who seeks solitude under sun and sand. Far from maddening crowds, Koh Yao Noi is your place to relax and rejuvenate without any fuss or frills. It is a destination mostly popular among the locals and can be called Thailand’s best kept secret. It can be reached from Phuket by a small boat ride of 30 minutes. Koh Yao Noi in the language stands for ‘The Small Long Island’ and it stays true to its promise. The island’s beaches offer gorgeous views of Phang Nga Bay while its interiors stay lush, peaceful, and pristine. However, the waters of the sea are not quite safe to swim in owing to the rocky and jagged ocean floor. Due to its remoteness, the facilities on the island are quite limited and ATMs or banking services are conspicuously absent so make sure you are adequately prepared."
+    },
+    {
+    "id": 5,
+    "location": "Indonesia",
+    "placeName": "Bali, Indonesia",
+    "category": [
+    "beach",
+    "seaside",
+    "nature",
+    "bali"
+    ],
+    "title": "An Ideal Retreat For Beaches, Temples And Rice Terraces",
+    "pricePerPerson": 210,
+    "packages": {
+    "single": {
+    "price": 210
+    },
+    "couple": {
+    "price": 400
+    },
+    "family": {
+    "price": 900
+    }
+    },
+    "packageDetails": "2 Nights Dinner & 1 night Berbique, 4 days Lunch & breakfast with tredational & popular dishes. And some complementary surprise from us.",
+    "lastJoiningDate": "02-05-2023",
+    "rating": 4.6,
+    "interestedPeople": 0,
+    "joinedMembers": 0,
+    "EventDuration": "4 Days & 3 Nights",
+    "StartDate": "10-05-2023",
+    "EndDate": "14-05-2023",
+    "CoverImage": "https://www.holidify.com/images/bgImages/BALI.jpg",
+    "images": [
+    "https://digitalnomads.world/wp-content/uploads/2021/01/bali-for-digital-nomads.jpg",
+    "https://www.holidify.com/images/cmsuploads/compressed/35386458730_037332a016_b_20190710102400.jpg",
+    "https://www.holidify.com/images/cmsuploads/compressed/Flickr_-_JennyHuang_-_Jenny5E_Anemone5E_video_20190626133758.jpg",
+    "https://www.holidify.com/images/cmsuploads/compressed/tegalalang_20190702182435.jpg",
+    "https://www.holidify.com/images/compressed/dest_wiki_1239.jpg",
+    "https://www.holidify.com/images/cmsuploads/compressed/MountAbang_20190710162027.jpg",
+    "https://www.holidify.com/images/cmsuploads/compressed/48101686516_83aa19e2a0_o_20190625145710.jpg",
+    "https://www.holidify.com/images/bgImages/BALI.jpg"
+    ],
+    "description": "Bali, Indonesia’s most famous island, is located to the west of Java in the Lesser Sunda Islands. It is world-renowned for its scenic rice terraces, fragrant cuisine,stunning beaches and a galore of culture and tradition. With its elaborate temples, endless coastline, some of the world's best coral reefs, waterfalls and retreats, Bali combines leisure and adventure impeccably. A dizzying combination of spiritual awakening and hard-partying all into one,  Bali is where people from all over the world come to lose themselves in.The island boasts some of the best sunsets and sunrises, enough to captivate and entice you into never leaving this place. Home to the coral reefs of Tulamben, the mountain peaks of Kintamani, the beaches and scenic routes of Seminyak and Kuta, with ancient temples and traditional village life of Ubud, Bali's charm is boundless, as are its opportunities for fun. Don’t forget to stop by one of the many terraced rice fields, a feature that only adds to the diversity of Bali’s beautiful landscape. Tourists may enjoy an idyllic day at the beach, surf, dive, take a casual boat ride to gaze at the dolphins, explore the many beautiful temples, the local markets and the waterfalls, or go to the silent yoga retreats - there is something for everybody here. Bali has been the subject of so many travel journals and has been famously alluded to in many works of literature, as a place of true beauty, and yet words always fail to capture the captivating magic of 'The Island of the Gods"
+    },
+    {
+    "id": 7,
+    "location": "Machu Pichu",
+    "placeName": "Machu Pichu, Peru ",
+    "category": [
+    "historicalplace",
+    "machupichu",
+    "historicalplace"
+    ],
+    "title": "Experience The Natural Beauty & Culture Of Peru",
+    "pricePerPerson": 210,
+    "packages": {
+    "single": {
+    "price": 210
+    },
+    "couple": {
+    "price": 400
+    },
+    "family": {
+    "price": 800
+    }
+    },
+    "packageDetails": "1 Nights Dinner & 1 night Berbique, 3 days Lunch & breakfast with tredational & popular dishes. And some complementary surprise from us.",
+    "lastJoiningDate": "20-05-2023",
+    "rating": 4.5,
+    "interestedPeople": 0,
+    "joinedMembers": 0,
+    "EventDuration": "3 Days & 2 Nights",
+    "StartDate": "26-05-2023",
+    "EndDate": "29-05-2023",
+    "CoverImage": "https://cms.valenciatravelcusco.com/media/images/package/sacred-valley-and-machu-picchu-by-train_Z4e2XgX.jpg",
+    "images": [
+    "https://cms.valenciatravelcusco.com/media/images/package/sacred-valley-and-machu-picchu-by-train_Z4e2XgX.jpg",
+    "https://gotoperu-mx.s3-us-west-1.amazonaws.com/itinerary/1574437277091machupicchu_1574437275.jpg",
+    "https://gotoperu-mx.s3-us-west-1.amazonaws.com/itinerary/1574437250112despedida_1574437248.jpg",
+    "https://s3.us-west-1.amazonaws.com/gotoperu.co/itinerary/1637944349427b4_1637944362.jpg",
+    "https://static.mywebsites360.com/a836523dae4e4073847e04188fd0a8c4/i/fea7f62d68af48b89ba1665d72beb163/1/GCuCv726gZycFxatR9d99n/Gallery%20Image%201.jpg",
+    "https://gotoperu-mx.s3-us-west-1.amazonaws.com/itinerary/1574437260377valle-sagrado_1574437258.jpg"
+    ],
+    "description": "More than 7,000 feet above sea level in the Andes Mountains, Machu Picchu is the most visited tourist destination in Peru. A symbol of the Incan Empire and built around 1450AD, Machu Picchu was designated a UNESCO World Heritage Site in 1983 and was named one of the New Seven Wonders of the World in 2007One of the most popular reasons to visit Machu Picchu is its popular hiking trail. The Inca Trail is almost as well known as the wonder of the world. This hiking route is chosen by hundreds of tourists every year, so much so that it is necessary to book months in advance.The monument of Inca architecture receives approximately a million of tourists a year. Machu Picchu, currently one of the 7 wonders of the world, is an impressive Inca fortress with temples, platforms and water channels, located at the top of a mountain of the Valley of Urubamba River, 2 360 m.a.s.l."
+    },
+    {
+    "id": 6,
+    "location": "Himachal Pradesh, India",
+    "placeName": "Shimla, Himachal Pradesh",
+    "category": [
+    "india",
+    "hillstation",
+    "snowfall",
+    "shimla",
+    "nature"
+    ],
+    "title": "One of the most stunning hill resorts",
+    "pricePerPerson": 300,
+    "packages": {
+    "single": {
+    "price": 300
+    },
+    "couple": {
+    "price": 550
+    },
+    "family": {
+    "price": 1000
+    }
+    },
+    "packageDetails": "3 Nights Dinner I night Berbique, 5 days Lunch & breakfast with tredational & popular traditional indian dishes. And some complementary surprise from us.",
+    "lastJoiningDate": "10-05-2023",
+    "rating": 4.8,
+    "interestedPeople": 0,
+    "joinedMembers": 0,
+    "EventDuration": "5 Days & 4 Nights",
+    "StartDate": "18-05-2023",
+    "EndDate": "23-05-2023",
+    "CoverImage": "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_633164246_20190904103856_20190904103926.jpg",
+    "images": [
+    "https://www.holidify.com/images/cmsuploads/compressed/28022192021_b8e82eb874_b_20190320141704.jpg",
+    "https://www.holidify.com/images/cmsuploads/compressed/Institute_for_Advanced_Study_Rashtrapati_Niwas_Shimla_Himachal_Pradesh_India_20190207143049jpg",
+    "https://www.holidify.com/images/compressed/attractions/attr_351.jpg?v=1.1",
+    "https://www.holidify.com/images/cmsuploads/compressed/Talakona_waterfall_view_01_20190930132844.jpg",
+    "https://www.holidify.com/images/cmsuploads/compressed/26011835443_49bc5a93f5_b_20190219152528jpg",
+    "https://www.holidify.com/images/cmsuploads/compressed/15641420594_6108051161_b_20180430185816.jpg",
+    "https://www.holidify.com/images/bgImages/MANALI.jpg",
+    "https://www.holidify.com/images/cmsuploads/compressed/Timber_trail_20170407195811.jpg",
+    "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_633164246_20190904103856_20190904103926.jpg"
+    ],
+    "description": "Shimla, the capital of the northern state of Himachal Pradesh, which borders Punjab, is India’s largest and best known hill station. It spans a 12km ridge in the foothills of the Himalayas, with steep, forested slopes falling away below and mountain views above. Thanks to its elevation, at over 2,000m, Shimla has always welcomed visitors escaping the soaring temperatures of the plains below, and today grateful Indian tourists make their way here to enjoy the cool, fresh air.Before holidaymakers, though, it was the British who beat a retreat from the heat to Shimla – the town was the Raj summer capital. Architectural relics from this period pepper it still, including a handful of Tudorbethan buildings. Most notable is the Viceregal Lodge on Observatory Hill where the partition agreement was drawn up, and the neo-Gothic Christ Church. Built in 1857, it stands out prominently on the ridge and looks like it would be equally at home in the Cotswolds.Shimla’s a lovely place to stroll around, especially since traffic is banned in the centre of town. Expect some uphill stretches, though – you’re in the Himalayas, after all. The main road is the Mall, which runs east-west for 4km just below the crest of the ridge. Strike off the Mall, heading south, and you’ll find a warren of alleys and stairways in the bazaar – a great place for shopping – which clings to the hillsides stretching down to busy Cart Road. The State Museum, housed in a colonial mansion, is also worth a visit, and has a good collection of contemporary and ancient art. If you fancy exploring beyond the town, you can head out into the surrounding foothills on walks that range from gentle to challenging."
+    },
+    {
+    "id": 16,
+    "location": "Namibia",
+    "placeName": "Sossusvlei, Namibia",
+    "category": [
+    "sossusvlei",
+    "namibia",
+    "desert"
+    ],
+    "title": "Desert Paradise for the desert Lover",
+    "pricePerPerson": 170,
+    "packages": {
+    "single": {
+    "price": 170
+    },
+    "couple": {
+    "price": 350
+    },
+    "family": {
+    "price": 800
+    }
+    },
+    "packageDetails": "1 Nights Dinner I night Berbique, 3 days Lunch & breakfast with tredational & popular thai dishes. And some complementary surprse from us.",
+    "lastJoiningDate": "04-05-2023",
+    "rating": 4.5,
+    "interestedPeople": 0,
+    "joinedMembers": 0,
+    "EventDuration": "3 Days & 2 Nights",
+    "StartDate": "12-05-2023",
+    "EndDate": "15-05-2023",
+    "CoverImage": "https://guardian.ng/wp-content/uploads/2018/04/Photo_-Art-of-Safari.jpg",
+    "images": [
+    "https://guardian.ng/wp-content/uploads/2018/04/Photo_-Art-of-Safari.jpg",
+    "https://thumbs.dreamstime.com/z/dunes-namib-desert-sossusvlei-namibia-africa-dead-vlei-naukluft-national-park-195357221.jpg",
+    "https://www.worldatlas.com/r/w1200/upload/7c/69/80/shutterstock-421198501.jpg",
+    "https://media.cntraveler.com/photos/5dc570fe7208760009792642/master/pass/&Beyond-Sosussvlei_2019_guest_area_109.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/2/22/Sossusvlei.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/29/b8/28/andbeyond-sossusvlei.jpg?w=700&h=-1&s=1",
+    "https://i.ytimg.com/vi/IMkSP1JfjhY/maxresdefault.jpg"
+    ],
+    "description": "Sossusvlei is undeniably one of the best vacation spots in Nambia. It is a clay and salt pan located within the Namib-Naukluft National Park. It is characterized by red dunes that roll, rising and falling, across a wide expanse of land. They form as a result of the rare rain that reaches the usually dry desert land.Some flora and fauna linger around this area, having adapted to the rough conditions, but it’s when moisture seeps its way into the environment that it truly flourishes. A lake forms in Sossusvlei, coaxing thousands of birds to the location in an impressive spectacle."
+    },
+    {
+    "id": 17,
+    "location": "Angkor Wat",
+    "placeName": "Angkor Wat, Cambodia",
+    "category": [
+    "angkorwat",
+    "cambodia",
+    "mistry",
+    "historical",
+    "historicalplace"
+    ],
+    "title": "A Paradise for the Historical Placae Lovers",
+    "pricePerPerson": 170,
+    "packages": {
+    "single": {
+    "price": 170
+    },
+    "couple": {
+    "price": 350
+    },
+    "family": {
+    "price": 800
+    }
+    },
+    "packageDetails": "1 Nights Dinner I night Berbique, 3 days Lunch & breakfast with tredational & popular thai dishes. And some complementary surprse from us.",
+    "lastJoiningDate": "04-05-2023",
+    "rating": 4.5,
+    "interestedPeople": 0,
+    "joinedMembers": 0,
+    "EventDuration": "3 Days & 2 Nights",
+    "StartDate": "12-05-2023",
+    "EndDate": "15-05-2023",
+    "CoverImage": "https://www.deutschland.de/sites/default/files/media/image/AdobeStock_99698574.jpg",
+    "images": [
+    "https://www.deutschland.de/sites/default/files/media/image/AdobeStock_99698574.jpg",
+    "https://cdn.britannica.com/56/122156-050-F5B469C8/overview-complex-Angkor-Wat-Cambodia.jpg",
+    "https://www.muchbetteradventures.com/magazine/content/images/2022/08/Angkor-Wat-Cambodia-entrance-1.jpg",
+    "https://imageio.forbes.com/specials-images/imageserve/6201c66e1fe0850bfc37fa84/Forgotten-temple/960x0.jpg?format=jpg&width=960",
+    "https://cdn1.i-scmp.com/sites/default/files/images/methode/2016/08/11/0dd04594-5d2b-11e6-82a1-e6803dbb30ea_image_hires.jpg",
+    "https://holidayandtrips.com/wp-content/uploads/2019/07/Angkor-Wat-Cambodias-most-famous-temple-1.jpg",
+    "https://cdn.britannica.com/35/171035-050-8423095A/Angkor-Wat-Siemreab-Cambodia.jpg",
+    "https://www.reviewofreligions.org/wp-content/uploads/2020/07/Angkor-wat-siem-reap-cambodia-bhuddist-hindu-shutterstock_620568230-scaled.jpg",
+    "https://lp-cms-production.imgix.net/2021-11/GettyImages-1304987250.jpg?auto=format&q=75&w=1920",
+    "https://upload.wikimedia.org/wikipedia/commons/4/44/Ankor_Wat_temple.jpg"
+    ],
+    "description": "If you love history and archaeology, Angkor Wat is one of the best places to travel in the world.Across 400 square kilometers, this temple of the Hindu faith was built in the 12th century under the Khmer Empire and took a whopping 35 years to complete.Today, Angkor Wat is a UNESCO World Heritage Site, and it doesn’t just host the staggering ancient wonders of the temple, but also other attractions for tourists, and plenty of jungle-trekking to get there. Make sure you’re all geared up early and you just may catch the sunrise!"
+    },
+    {
+    "id": 19,
+    "location": "Antelope Canyon",
+    "placeName": "Antelope Canyon, USA",
+    "category": [
+    "usa",
+    "canyon",
+    "water",
+    "nature"
+    ],
+    "title": "Canyon Paradise for the Canyon Lovers",
+    "pricePerPerson": 170,
+    "packages": {
+    "single": {
+    "price": 170
+    },
+    "couple": {
+    "price": 350
+    },
+    "family": {
+    "price": 800
+    }
+    },
+    "packageDetails": "1 Nights Dinner I night Berbique, 3 days Lunch & breakfast with tredational & popular thai dishes. And some complementary surprse from us.",
+    "lastJoiningDate": "04-05-2023",
+    "rating": 4.5,
+    "interestedPeople": 0,
+    "joinedMembers": 0,
+    "EventDuration": "3 Days & 2 Nights",
+    "StartDate": "12-05-2023",
+    "EndDate": "15-05-2023",
+    "CoverImage": "https://travelmelodies.com/wp-content/uploads/2020/01/travel-melodies-antelope-canyon-arizona-usa.jpg",
+    "images": [
+    "https://travelmelodies.com/wp-content/uploads/2020/01/travel-melodies-antelope-canyon-arizona-usa.jpg",
+    "https://usareisetipps.com/wp-content/uploads/antelope-canyon-tour-gruppe.jpg",
+    "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/abstract-pattern-formation-of-sand-falling-in-a-cave-in-the-upper-antelope-canyon-ami-parikh.jpg",
+    "https://landscapephotographymagazine.com/wp-content/uploads/2019/07/Antelope-Canyon-Arizona-USA-by-Craig-Bill.jpg",
+    "https://i.ytimg.com/vi/Dz_m2TUizZ8/maxresdefault.jpg",
+    "https://usareisetipps.com/wp-content/uploads/antelope-canyon-einstieg.jpg"
+    ],
+    "description": "This geological phenomenon is located on Navajo territory and it is a slot canyon that boasts the privilege of being the most photographed of its kind universally.The upper canyon area is more popular and offers a fantastic view of the curving, wavy walls of sandstone, while the lower canyon area boasts a more up-close-and-personal interaction with the magnolias colors it boasts.Antelope Canyon is easily one of the most beautiful places in the US thanks to the amazing appearance it offers.It’s amazing to think that all these fascinating shades of sandstone, in orange, yellow, pink, and red, occurred naturally!"
+    },
+    {
+    "id": 20,
+    "location": "Pyramids",
+    "placeName": "Pyramids of Giza, Egypt",
+    "category": [
+    "pyramid",
+    "desert",
+    "historicalplace"
+    ],
+    "title": "A Paradise for the Pyramids & History Lovers",
+    "pricePerPerson": 170,
+    "packages": {
+    "single": {
+    "price": 170
+    },
+    "couple": {
+    "price": 350
+    },
+    "family": {
+    "price": 800
+    }
+    },
+    "packageDetails": "1 Nights Dinner I night Berbique, 3 days Lunch & breakfast with tredational & popular thai dishes. And some complementary surprse from us.",
+    "lastJoiningDate": "04-05-2023",
+    "rating": 4.5,
+    "interestedPeople": 0,
+    "joinedMembers": 0,
+    "EventDuration": "3 Days & 2 Nights",
+    "StartDate": "12-05-2023",
+    "EndDate": "15-05-2023",
+    "CoverImage": "https://lp-cms-production.imgix.net/2020-11/GettyRF_1085205362.jpg?auto=format&q=75&w=3840",
+    "images": [
+    "https://lp-cms-production.imgix.net/2020-11/GettyRF_1085205362.jpg?auto=format&q=75&w=3840",
+    "https://s27363.pcdn.co/wp-content/uploads/2020/05/Pyramids-of-Giza-Guide-1200x900.jpg.optimal.jpg",
+    "https://s27363.pcdn.co/wp-content/uploads/2020/04/Camel-Ride.jpg.optimal.jpg",
+    "https://thirdeyetraveller.com/wp-content/uploads/GIZA-1-of-1-6.jpg",
+    "https://cdn-imgix.headout.com/tour/26524/TOUR-IMAGE/ffbfd232-0846-455a-855c-2bda58393268-13944-cairo-skip-the-line-tickets---pyramids-of-giza-06.jpg",
+    "https://i.natgeofe.com/n/c39ee1b2-9061-4e28-bad6-0ba27094c8fa/1-pyramids-giza-NationalGeographic_911975_16x9.jpg?w=1200"
+    ],
+    "description": "Most people would consider the world-famous Pyramids of Giza to be among the best vacation spots that the world has to offer.Among them are the gigantic Pyramid of Cheops, the intriguing Pyramid of Chephren, and, of course, the towering Sphinx that gazes over the land with watchful eyes. Experience the wonders of ancient Egypt within these pyramids, where you will see sarcophagi, passages, statues, and structures all worthy of exploration. It’s no wonder that these iconic structures are so renowned!"
+    }
+    ]
