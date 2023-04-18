@@ -30,15 +30,14 @@ async function run() {
     try {
         const addTours = client.db("nextTrip").collection("tours");
 		
-        // const database = client.db('bookTheTour')
-        // const toursCollection = database.collection('tours')
+        
 
-        // app.get('/tours', async(request, response) => {
-        //     const query = {}
-        //     tours = await toursCollection.find(query).toArray()
-        //     response.send(tours);
-        //     response.send(tours)
-        // })
+        app.get('/tours', async(request, response) => {
+            const query = {}
+            tours = await toursCollection.find(query).toArray()
+            response.send(tours);
+            response.send(tours)
+        })
     }
 
     finally{
