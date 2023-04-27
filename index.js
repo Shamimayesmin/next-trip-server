@@ -30,13 +30,21 @@ async function run() {
     try {
         const toursCollection = client.db("nextTrip").collection("tours");
         const categoryCollection = client.db("nextTrip").collection("category")
+        const worldTourWayCollection = client.db("nextTrip").collection("worldTourWay")
         
 
         app.get('/category', async(req, res) => {
             const query = {}
             const category = await categoryCollection.find(query).toArray()
             res.send(category);
-            console.log(category);
+            // console.log(category);
+           
+        });
+        app.get('/worldtour', async(req, res) => {
+            const query = {}
+            const worldTour = await worldTourWayCollection.find(query).toArray()
+            res.send(worldTour);
+            
            
         });
         app.get('/tours', async(req, res) => {
