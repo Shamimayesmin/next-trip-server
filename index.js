@@ -29,14 +29,21 @@ const client = new MongoClient(uri, {
 async function run() {
     try {
         const toursCollection = client.db("nextTrip").collection("tours");
-		
+        const categoryCollection = client.db("nextTrip").collection("category")
         
 
+        app.get('/category', async(req, res) => {
+            const query = {}
+            const category = await categoryCollection.find(query).toArray()
+            res.send(category);
+            console.log(category);
+           
+        });
         app.get('/tours', async(req, res) => {
             const query = {}
             const tours = await toursCollection.find(query).toArray()
             res.send(tours);
-            console.log(tours);
+            // console.log(tours);
            
         });
 
