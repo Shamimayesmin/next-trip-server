@@ -9,66 +9,70 @@ require("dotenv").config();
 app.use(cors());
 app.use(express.json());
 
-
 const uri = `mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASSWORD}@cluster0.ui8slz3.mongodb.net/?retryWrites=true&w=majority`;
 
 console.log(uri);
 // Create a MongoClient with a MongoClientOptions object to set the Stable API version
 const client = new MongoClient(uri, {
-  serverApi: {
-    version: ServerApiVersion.v1,
-    strict: true,
-    deprecationErrors: true,
-  }
+	serverApi: {
+		version: ServerApiVersion.v1,
+		strict: true,
+		deprecationErrors: true,
+	},
 });
 
-
-
 async function run() {
-    try {
-        const toursCollection = client.db("nextTrip").collection("tours");
-        const categoryCollection = client.db("nextTrip").collection("category")
-        const worldTourWayCollection = client.db("nextTrip").collection("worldTourWay")
-        
-        // to get all categories
-        app.get('/category', async(req, res) => {
-            const query = {}
-            const category = await categoryCollection.find(query).toArray()
-            res.send(category);
-            // console.log(category);
-           
-        });
+	try {
+		const toursCollection = client.db("nextTrip").collection("tours");
+		const categoryCollection = client.db("nextTrip").collection("category");
+		const worldTourWayCollection = client
+			.db("nextTrip")
+			.collection("worldTourWay");
 
-        // the way of world tour data loaded;
-        app.get('/worldtour', async(req, res) => {
-            const query = {}
-            const worldTour = await worldTourWayCollection.find(query).toArray()
-            res.send(worldTour);
-            
-           
-        });
+		// to get all categories
+		app.get("/category", async (req, res) => {
+			const query = {};
+			const category = await categoryCollection.find(query).toArray();
+			res.send(category);
+			// console.log(category);
+		});
 
-        // get all the tours
-        app.get('/tours', async(req, res) => {
-            const query = {}
-            const tours = await toursCollection.find(query).toArray()
-            res.send(tours);
-            // console.log(tours);
-           
-        });
+		
+		// the way of world tour data loaded;
+		app.get("/worldtour", async (req, res) => {
+			const query = {};
+			const worldTour = await worldTourWayCollection.find(query).toArray();
+			res.send(worldTour);
+		});
 
-        // get a specific tour by id in the details page.
-        app.get("/tour/:id", async(req,res)=>{
-          const id = req.params.id;
-          const result = await toursCollection.findOne({_id : new ObjectId(id)});
-          res.send(result);
-        })
+		// get all the tours
+		app.get("/tours", async (req, res) => {
+			const query = {};
+			const tours = await toursCollection.find(query).toArray();
+			res.send(tours);
+			// console.log(tours);
+		});
 
-    }
+    // category wise package find out
+		app.get("/tours/:category", async (req, res) => {
+			const nature = req.params.category;
+			const query = { category: nature };
+			const data = await toursCollection.find(query).toArray();
+			console.log(data);
+			// console.log(data.category);
+			res.send(data);
+		});
 
-    finally{
+    
 
-    }
+		// get a specific tour by id in the details page.
+		app.get("/tour/:id", async (req, res) => {
+			const id = req.params.id;
+			const result = await toursCollection.findOne({ _id: new ObjectId(id) });
+			res.send(result);
+		});
+	} finally {
+	}
 }
 
 run().catch((err) => console.log(err));
