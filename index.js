@@ -24,15 +24,13 @@ const client = new MongoClient(uri, {
 
 
 
-
-
 async function run() {
     try {
         const toursCollection = client.db("nextTrip").collection("tours");
         const categoryCollection = client.db("nextTrip").collection("category")
         const worldTourWayCollection = client.db("nextTrip").collection("worldTourWay")
         
-
+        // to get all categories
         app.get('/category', async(req, res) => {
             const query = {}
             const category = await categoryCollection.find(query).toArray()
@@ -40,6 +38,8 @@ async function run() {
             // console.log(category);
            
         });
+
+        // the way of world tour data loaded;
         app.get('/worldtour', async(req, res) => {
             const query = {}
             const worldTour = await worldTourWayCollection.find(query).toArray()
@@ -47,6 +47,8 @@ async function run() {
             
            
         });
+
+        // get all the tours
         app.get('/tours', async(req, res) => {
             const query = {}
             const tours = await toursCollection.find(query).toArray()
@@ -55,6 +57,7 @@ async function run() {
            
         });
 
+        // get a specific tour by id in the details page.
         app.get("/tour/:id", async(req,res)=>{
           const id = req.params.id;
           const result = await toursCollection.findOne({_id : new ObjectId(id)});
