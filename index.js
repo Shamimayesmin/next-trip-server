@@ -55,8 +55,8 @@ async function run() {
 
     // category wise package find out
 		app.get("/tours/:category", async (req, res) => {
-			const nature = req.params.category;
-			const query = { category: nature };
+			const categoryItem = req.params.category;
+			const query = { category: categoryItem };
 			const data = await toursCollection.find(query).toArray();
 			console.log(data);
 			// console.log(data.category);
