@@ -25,6 +25,7 @@ async function run() {
 	try {
 		const toursCollection = client.db("nextTrip").collection("tours");
 		const categoryCollection = client.db("nextTrip").collection("category");
+		const bookingTourCollection = client.db("nextTrip").collection("booking");
 		const worldTourWayCollection = client
 			.db("nextTrip")
 			.collection("worldTourWay");
@@ -69,6 +70,14 @@ async function run() {
 		app.get("/tour/:id", async (req, res) => {
 			const id = req.params.id;
 			const result = await toursCollection.findOne({ _id: new ObjectId(id) });
+			res.send(result);
+		});
+
+		// create booking collection to confirm the booking tour
+		app.post("/booking", async (req, res) => {
+			const bookTour = req.body;
+
+			const result = await bookingTourCollection.insertOne(bookTour);
 			res.send(result);
 		});
 	} finally {
