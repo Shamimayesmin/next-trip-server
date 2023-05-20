@@ -78,7 +78,7 @@ async function run() {
 			const bookTour = req.body;
 
 			const result = await bookingTourCollection.insertOne(bookTour);
-			res.send(result);
+			res.send({status: true,data:result});
 		});
 	} finally {
 	}
